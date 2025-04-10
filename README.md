@@ -16,3 +16,5 @@ Hello, we are Dakota, Courtney, and Sean, and we're here to teach you how to tie
 ## Conclusion
 <p> If you have followed the steps listed above, you should have a fully tied shoe or shoes. If you do not have a fully tied shoe, please revisit the steps above and try again. </p>
 Happy tying! </p>
+
+Possibly number the steps next time, but otherwise everything looks great!
